@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlcChallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <string name="user_profile">User Profile</string>
+    <string name="agbese_armstrong_efegwa">Agbese Armstrong Efegwa</string>
+    <string name="android_development">android development</string>
+    <string name="email_effya13_gmail_com">email: effya13@gmail.com</string>
+    <string name="phone_number_07035189065">phone number: 07035189065</string>
+</resources>
